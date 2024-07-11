@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Azizah Giwa
+email: azizahgiwa@gmail.com
+description: I am a Data Analyst and Project Manager proficient in SQL, Python, R, Tableau, Power BI, Asana, and Microsoft Office. > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "azizah-giwa.github.io/AzizahGiwa/" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+linkedin_username: 
+github_username: Azizah-Giwa
 
 # Build settings
 markdown: kramdown
