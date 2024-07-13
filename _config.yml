@@ -5,6 +5,12 @@ description: I am a Data Analyst and Project Manager proficient in SQL, Python, 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "azizah-giwa.github.io/AzizahGiwa/" # the base hostname & protocol for your site
 
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/azizah-giwa-174953152
+  - title: github
+    url: https://github.com/Azizah-Giwa
+
 linkedin_username: 
 github_username: Azizah-Giwa
 
